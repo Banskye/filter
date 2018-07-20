@@ -1,0 +1,4 @@
+#List of ages
+ages={5, 12, 3, 56, 24, 78, 1, 15, 44}
+#Adds all ages then divides by number of ages
+print sum(ages)/len(ages)
